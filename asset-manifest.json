@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/static/css/main.96e3e4d3.chunk.css",
-    "main.js": "/static/js/main.3bde792c.chunk.js",
-    "main.js.map": "/static/js/main.3bde792c.chunk.js.map",
+    "main.js": "/static/js/main.9bf1763b.chunk.js",
+    "main.js.map": "/static/js/main.9bf1763b.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.05d3dc5f.js",
     "runtime-main.js.map": "/static/js/runtime-main.05d3dc5f.js.map",
-    "static/js/2.65eafcbf.chunk.js": "/static/js/2.65eafcbf.chunk.js",
-    "static/js/2.65eafcbf.chunk.js.map": "/static/js/2.65eafcbf.chunk.js.map",
+    "static/js/2.efa72065.chunk.js": "/static/js/2.efa72065.chunk.js",
+    "static/js/2.efa72065.chunk.js.map": "/static/js/2.efa72065.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.c1afacda8fd2f3ae29a5e0c14d09c8ef.js": "/precache-manifest.c1afacda8fd2f3ae29a5e0c14d09c8ef.js",
+    "precache-manifest.70adbab147f9dde96834156ff0f2844f.js": "/precache-manifest.70adbab147f9dde96834156ff0f2844f.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.96e3e4d3.chunk.css.map": "/static/css/main.96e3e4d3.chunk.css.map",
     "static/media/index.css": "/static/media/Montserrat-Regular.ee653992.ttf",
@@ -18,9 +18,14 @@
     "static/media/address_image.svg": "/static/media/address_image.16559172.svg",
     "static/media/animated_ashutosh.png": "/static/media/animated_ashutosh.eaf02c2d.png",
     "static/media/animated_logo.svg": "/static/media/animated_logo.dcd6dee2.svg",
+    "static/media/asr.png": "/static/media/asr.1cd4021d.png",
+    "static/media/asr_zindi.png": "/static/media/asr_zindi.6cf52f0a.png",
+    "static/media/birdcall.png": "/static/media/birdcall.867321af.png",
     "static/media/blogs_image.svg": "/static/media/blogs_image.058eca4c.svg",
+    "static/media/cassava.png": "/static/media/cassava.8308b4f6.png",
     "static/media/cloud_infrastructure.svg": "/static/media/cloud_infrastructure.cacbc42b.svg",
     "static/media/codeInLogo.png": "/static/media/codeInLogo.fee92c18.png",
+    "static/media/constraint.png": "/static/media/constraint.67b6fa2c.png",
     "static/media/contactMail.png": "/static/media/contactMail.5f915405.png",
     "static/media/crisp.png": "/static/media/crisp.ab3eb4a3.png",
     "static/media/data_science.svg": "/static/media/data_science.ebf35d7f.svg",
@@ -48,8 +53,11 @@
     "static/media/legato_logo.png": "/static/media/legato_logo.c597fbde.png",
     "static/media/logically.png": "/static/media/logically.b5c6d7c1.png",
     "static/media/manOnTable.svg": "/static/media/manOnTable.83ac24fb.svg",
+    "static/media/movie_genre.jpg": "/static/media/movie_genre.a3833eea.jpg",
     "static/media/muffito_logo.png": "/static/media/muffito_logo.069938a8.png",
     "static/media/nptel_logo.png": "/static/media/nptel_logo.95a12a2b.png",
+    "static/media/ocr.png": "/static/media/ocr.18266b15.png",
+    "static/media/pix2pix.png": "/static/media/pix2pix.58eff384.png",
     "static/media/polytech_sorbonne.jpg": "/static/media/polytech_sorbonne.06c59a64.jpg",
     "static/media/polytech_sorbonne.png": "/static/media/polytech_sorbonne.7a174a90.png",
     "static/media/portfolio.gif": "/static/media/portfolio.414dfbd9.gif",
@@ -66,8 +74,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.05d3dc5f.js",
-    "static/js/2.65eafcbf.chunk.js",
+    "static/js/2.efa72065.chunk.js",
     "static/css/main.96e3e4d3.chunk.css",
-    "static/js/main.3bde792c.chunk.js"
+    "static/js/main.9bf1763b.chunk.js"
   ]
 }
