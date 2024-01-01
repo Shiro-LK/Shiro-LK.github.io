@@ -1,18 +1,19 @@
 {
   "files": {
     "main.css": "/static/css/main.96e3e4d3.chunk.css",
-    "main.js": "/static/js/main.9bf1763b.chunk.js",
-    "main.js.map": "/static/js/main.9bf1763b.chunk.js.map",
+    "main.js": "/static/js/main.6b2a2903.chunk.js",
+    "main.js.map": "/static/js/main.6b2a2903.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.05d3dc5f.js",
     "runtime-main.js.map": "/static/js/runtime-main.05d3dc5f.js.map",
-    "static/js/2.efa72065.chunk.js": "/static/js/2.efa72065.chunk.js",
-    "static/js/2.efa72065.chunk.js.map": "/static/js/2.efa72065.chunk.js.map",
+    "static/js/2.9505eb27.chunk.js": "/static/js/2.9505eb27.chunk.js",
+    "static/js/2.9505eb27.chunk.js.map": "/static/js/2.9505eb27.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.70adbab147f9dde96834156ff0f2844f.js": "/precache-manifest.70adbab147f9dde96834156ff0f2844f.js",
+    "precache-manifest.9f294cdc864d3b4040851f8f57f07e1e.js": "/precache-manifest.9f294cdc864d3b4040851f8f57f07e1e.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.96e3e4d3.chunk.css.map": "/static/css/main.96e3e4d3.chunk.css.map",
     "static/media/index.css": "/static/media/Montserrat-Regular.ee653992.ttf",
     "static/media/Logo_Sorbonne_Université.png": "/static/media/Logo_Sorbonne_Université.114d339b.png",
+    "static/media/NoLogo.png": "/static/media/NoLogo.ac877798.png",
     "static/media/Universite-Paris-Saclay.png": "/static/media/Universite-Paris-Saclay.4564f028.png",
     "static/media/abacusai_logo.png": "/static/media/abacusai_logo.0f92e1d8.png",
     "static/media/address_image.svg": "/static/media/address_image.16559172.svg",
@@ -27,6 +28,7 @@
     "static/media/codeInLogo.png": "/static/media/codeInLogo.fee92c18.png",
     "static/media/constraint.png": "/static/media/constraint.67b6fa2c.png",
     "static/media/contactMail.png": "/static/media/contactMail.5f915405.png",
+    "static/media/cosmetics defects.png": "/static/media/cosmetics defects.4e936a13.png",
     "static/media/crisp.png": "/static/media/crisp.ab3eb4a3.png",
     "static/media/data_science.svg": "/static/media/data_science.ebf35d7f.svg",
     "static/media/deeplearning_ai_logo.png": "/static/media/deeplearning_ai_logo.75a7107b.png",
@@ -74,8 +76,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.05d3dc5f.js",
-    "static/js/2.efa72065.chunk.js",
+    "static/js/2.9505eb27.chunk.js",
     "static/css/main.96e3e4d3.chunk.css",
-    "static/js/main.9bf1763b.chunk.js"
+    "static/js/main.6b2a2903.chunk.js"
   ]
 }
